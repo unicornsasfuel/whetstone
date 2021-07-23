@@ -7,6 +7,7 @@ Whetstone will extract a certain frequency band based on a low cutoff and high c
 Grab the latest release from https://github.com/unicornsasfuel/whetstone/releases that corresponds to your operating system and supported plugin type, unzip it if it is zipped, and drop the file into the appropriate plugin directory.
 
 Help finding VST3 locations can be found here: https://helpcenter.steinberg.de/hc/en-us/articles/115000177084-VST-plug-in-locations-on-Windows
+
 Help finding AU locations can be found here: https://support.apple.com/en-us/HT201532
 
 # Building
