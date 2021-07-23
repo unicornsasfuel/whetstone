@@ -10,5 +10,7 @@ Help finding VST3 locations can be found here: https://helpcenter.steinberg.de/h
 
 Help finding AU locations can be found here: https://support.apple.com/en-us/HT201532
 
+Since making macOS plugins that do not trigger Gatekeeper requires paying Apple for a developer license and I am not profiting from this software, this plugin will trigger Gatekeeper. Right click the plugin after placing it in the correct directory, and select "Open With". Choose any application you like, even one that won't open it properly, and open it. This creates an exception for the plugin and allows you to use it.
+
 # Building
 This project is coded in Faust, so it can be built into any of the outputs Faust is capable of. A JUCE project is also provided, for building with Projucer.
